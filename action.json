@@ -1,18 +1,18 @@
 {
-    "testAction2":{
-        "status":{
-            "url":"http://localhost"
-            "actionparams":{}
+    "testAction2": {
+        "status": {
+            "url": "http://localhost",
+            "actionparams": {}
         },
-          "status1":{
-            "url":"http://localhost/anyess"
-            "actionparams":{}
+        "status1": {
+            "url": "http://localhost/anyess",
+            "actionparams": {}
         }
     },
-    "testAction3":{
-       "statu2s":{
-            "url":"http://localhost"
-            "actionparams":{}
-        },
+    "testAction3": {
+        "statu2s": {
+            "url": "http://localhost",
+            "actionparams": {}
+        }
     }
 }
