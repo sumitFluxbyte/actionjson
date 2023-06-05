@@ -1,0 +1,10 @@
+{"action":{
+    "cto-approvak":{
+        "status":"sucsess"
+    },
+    "get-approval":{
+        "aproved":true,
+        "url":"http://localhost",
+        "action-params":{}
+    }
+}}
